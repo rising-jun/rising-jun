@@ -7,4 +7,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rising-jun&count_private=true&theme=dracula)
 
-### 행복한 개발자가 되고 싶습네다!
+### 야 오규성!, 나랑 내기 하나 하자!
+... 두고보자.. 3년만 있다 보자..
