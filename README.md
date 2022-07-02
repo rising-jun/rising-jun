@@ -1,4 +1,5 @@
 ## How Are You Today?
+> i'm fine maybe~
 ### 맛있는 Swift 만들기.
 1. 작성 전에 고민(생각) 의도갖기.
 2. "왜"를 확실하게 하기.
