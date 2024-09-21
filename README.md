@@ -1,11 +1,5 @@
 ## iOS 개발자 김동준입니다.
 
-### 당연히 지켜야 할 것들을 지키려 노력하자!
-
-### 좋아하는 것.
-- 스위프트 좋아합니다.
-- 클린코드 좋아합니다.
-
-#### CodeSquad2022-iOS
-
-미운 26살 개발자 김동준입니다.
+- 2022 CodeSquad
+- 22.11 - 23.06 Stunning. App Developer (LoudSourcing, NoteFolio)
+- 23.06 ~ PhotoWidget - Simple. iOS Developer
